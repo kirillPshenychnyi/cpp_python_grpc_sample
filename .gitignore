@@ -1,0 +1,14 @@
+// Directories
+.idea/
+CMakeFiles/
+venv/
+proto-src/
+__pycache__/
+
+//build files
+Makefile
+CMakeCache.txt
+cmake_install.cmake
+greeter_server
+hello_pb2.py
+hello_pb2_grpc.py
